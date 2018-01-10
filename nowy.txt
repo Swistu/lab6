@@ -1,0 +1,1 @@
+To jest plik, który zostanie wrzucony w pierwszej rewizji.
