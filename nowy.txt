@@ -1,1 +1,3 @@
 To jest plik, który zostanie wrzucony w pierwszej rewizji.
+
+To jest tekst dodany w kolejnej wersji.
